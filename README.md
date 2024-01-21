@@ -11,4 +11,4 @@ kubectl label namespace default istio-injection=enabled
 ```
 Addons will install Grafana, Prometheus, Jaeger, Kiali 
 
-Setting Context https://humalect.com/blog/kubectl-config-set-context
+Setting Context https://humalect.com/blog/kubectl-config-set-context - kubectl config set-context --current --namespace cloudchamp
